@@ -27,7 +27,10 @@ By the end of this chapter, you should be able to:
 
 Before you read the rest of this chapter, watch this short video overview of ERDs:
 
-[▶️ ERD Introduction Video](http://gitlab.djrc.perseverenow.org/-/project/16/uploads/a700fedbcaeee513229f7154fd505b48/ERD-Intro.mp4)
+[▶️ ERD Introduction Video](https://youtu.be/R4GJ49d5ppQ)
+
+[![ERD Introduction Video](https://img.youtube.com/vi/R4GJ49d5ppQ/0.jpg)](https://youtu.be/R4GJ49d5ppQ)
+
 
 
 ---
