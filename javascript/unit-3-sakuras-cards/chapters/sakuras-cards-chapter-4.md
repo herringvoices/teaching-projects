@@ -35,7 +35,7 @@ You’ll overwrite `database.js` with an updated one that adds `stores` and the 
 Run this ONE line **while inside the `sakuras-cards` folder**:
 
 ```bash
-curl -fsSL "http://gitlab.djrc.perseverenow.org/nhomoelle/javascript-algorithms-and-data-structures/-/raw/main/unit-3-sakuras-cards/scripts/newdata.sh?ref_type=heads" | bash
+   curl -fsSL "https://raw.githubusercontent.com/herringvoices/teaching-projects/refs/heads/main/javascript/unit-3-sakuras-cards/scripts/newdata.sh" | bash
 ```
 
 What it does:

@@ -50,13 +50,14 @@ Before you can look at `database.js` in Step 1, make sure the starter files exis
 1. Open **Git Bash**.
 2. Switch to the `F:` drive:
 	```bash
-	cd /f
-	# If that fails, try: cd f:
+	cd f:
 	```
 3. Download the project setup script:
 	```bash
-	curl -fsSL "http://gitlab.djrc.perseverenow.org/nhomoelle/javascript-algorithms-and-data-structures/-/raw/main/unit-3-sakuras-cards/scripts/setup.sh?ref_type=heads" -o setup.sh
+   curl -fsSL "https://raw.githubusercontent.com/herringvoices/teaching-projects/refs/heads/main/javascript/unit-3-sakuras-cards/scripts/setup.sh" | bash
 	```
+
+
 4. Run the script (either form works):
 	```bash
 	bash setup.sh

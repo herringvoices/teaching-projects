@@ -33,8 +33,8 @@ Let’s conjure the project onto your computer:
 
    **Copy, paste, and run the following command in Git Bash:**
 
-   ```
-   bash <(curl -s http://gitlab.djrc.perseverenow.org/nhomoelle/javascript-algorithms-and-data-structures/-/raw/main/unit-2-magic-shop/scripts/setup.sh)
+   ```bash
+   curl -fsSL "https://raw.githubusercontent.com/herringvoices/teaching-projects/refs/heads/main/javascript/unit-2-magic-shop/scripts/setup.sh" | bash
    ```
 
    **Tip:** In Git Bash, you usually paste by **right-clicking** in the window and selecting **paste** (Ctrl+V probably won't work)
